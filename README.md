@@ -1,5 +1,5 @@
 # HackerNews Comments Reader
-an alternative way of displaying (and reading) comments below HN stories
+an alternative way of displaying (and reading) comments below [Hacker News](https://news.ycombinator.com/best?h=24) stories
 
 
 ### Motivation
