@@ -3,7 +3,7 @@ an alternative way of displaying (and reading) comments below [Hacker News](http
 
 
 ### Motivation
-I struggle to follow (and understand) discussions below HN's stories. There is a lot of "zigzag", expand & reduce involved. This project is my attempt to ease this process.
+I struggle to follow (and understand) discussions below HN's stories. There is a lot of "zigzag", expand & collapse involved. This project is my attempt to ease this process.
 
 ### Implementation
 - [Official HackerNews API](https://github.com/HackerNews/API)
